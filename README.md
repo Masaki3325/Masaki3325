@@ -1,7 +1,7 @@
 ### I'm Masaki 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Masaki3325&show_icons=true&theme=merko " height="158px" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Masaki3325&show_icons=true&theme=radical" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
